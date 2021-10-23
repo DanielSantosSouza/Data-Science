@@ -14,7 +14,7 @@ Engenheiro de formação (UFC) e apaixonado por dados. Tenho habilidades com Pow
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb - New York
+* **Analisando os Dados do Airbnb - New  - https://colab.research.google.com/drive/1yolzmU68CK5eftxKegbHxYEcrIytQj7l?usp=sharing
 
 ---
 
