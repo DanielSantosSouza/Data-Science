@@ -15,7 +15,6 @@ Engenheiro de formação (UFC) e apaixonado por dados. Tenho habilidades com Pow
 * [LinkedIn](https://www.linkedin.com/in/daniel-dos-santos-souza-42388614b/)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Analisando os Dados do Airbnb - New York
 
