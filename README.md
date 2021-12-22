@@ -14,8 +14,8 @@ Engenheiro de formação (UFC) e apaixonado por dados. Tenho habilidades com Pow
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb - New  - https://colab.research.google.com/drive/1yolzmU68CK5eftxKegbHxYEcrIytQj7l?usp=sharing
-
+* **Analisando os Dados do Airbnb - https://colab.research.google.com/drive/1yolzmU68CK5eftxKegbHxYEcrIytQj7l?usp=sharing
+* **anorama do COVID-19 no Mundo - https://colab.research.google.com/drive/1K-Lihk49Qhw_GPSvAtzQtbE4GQTxYDOD?usp=sharing
 ---
 
 
