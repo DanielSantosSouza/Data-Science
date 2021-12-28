@@ -7,7 +7,7 @@ Engenheiro de formação (UFC) e apaixonado por dados. Tenho habilidades com Pow
 
 
 
-**Background in:** SQL, PYHTON, Power BI e Pacote Office
+**Background in:** SQL, Python, Power BI e Pacote Office
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/daniel-dos-santos-souza-42388614b/)
