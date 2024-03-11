@@ -3,8 +3,7 @@
 </p>
 
 # Daniel Santos
-Engenheiro de formação (UFC) e apaixonado por dados. Tenho habilidades com Power BI, SQL e atualmente estou me desenvolvendo aprendendo python. Atualmente sou analista de planejamento financeiro e analytics.
-
+Engenheiro graduado pela UFC e entusiasta de dados, com experiência e habilidades sólidas em ferramentas de visualização de dados, Python e SQL. Atualmente, atuo como analista de modelagem de crédito, onde estou me desenvolvendo em modelos para concessão e manutenção de crédito. Meu perfil combina conhecimentos técnicos em ciência de dados com uma paixão pelo impacto prático das análises em ambientes financeiros. Estou comprometido com o contínuo aprimoramento profissional e a busca por soluções inovadoras para desafios complexos.
 
 
 **Background in:** SQL, Python, Power BI e Pacote Office
