@@ -15,6 +15,7 @@ Engenheiro graduado pela UFC e entusiasta de dados, com experiência e habilidad
 
 * **Analisando os Dados do Airbnb - New York** - https://colab.research.google.com/drive/1yolzmU68CK5eftxKegbHxYEcrIytQj7l?usp=sharing
 * **Panorama do COVID-19 no Mundo** - https://github.com/DanielSantosSouza/Panorama-do-COVID-19-no-Mundo-e-na-America-Latina
+* **Desafio Kaggle - Titanic** - https://github.com/DanielSantosSouza/Titanic
 ---
 
 
