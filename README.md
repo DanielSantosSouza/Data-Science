@@ -16,10 +16,12 @@ Atualmente, sou responsável pelo desenvolvimento e monitoramento de modelos pre
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb - New York** - https://colab.research.google.com/drive/1yolzmU68CK5eftxKegbHxYEcrIytQj7l?usp=sharing
-* **Panorama do COVID-19 no Mundo** - https://github.com/DanielSantosSouza/Panorama-do-COVID-19-no-Mundo-e-na-America-Latina
-* **Desafio Kaggle - Titanic** - https://github.com/DanielSantosSouza/Titanic
-* **Dados SSPDS - Ceará** - https://github.com/DanielSantosSouza/Data-Science/blob/8bfcd15cff7e128a12c6dd21fd3dddf9c697d48e/Dados_SSPDS_CE.ipynb
+### EDA
+* **Repositório com notebooks de análise exploratória de dados (EDA)** - [https://github.com/DanielSantosSouza/Web-Scraping---TSE.git](https://github.com/DanielSantosSouza/EDA.git)
+
+### Web Scraping
+* **Web Scraping de Dados do TSE** - [https://github.com/DanielSantosSouza/Web-Scraping---TSE.git](https://github.com/DanielSantosSouza/Web-Scraping---TSE.git)
+  
 ---
 
 
