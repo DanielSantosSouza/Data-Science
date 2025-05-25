@@ -3,8 +3,11 @@
 </p>
 
 # Daniel Santos
-Engenheiro graduado pela UFC e entusiasta de dados, com experiência e habilidades sólidas em ferramentas de visualização de dados, Python e SQL. Atualmente, atuo como analista de modelagem de crédito, onde estou me desenvolvendo em modelos para concessão e manutenção de crédito. Meu perfil combina conhecimentos técnicos em ciência de dados com uma paixão pelo impacto prático das análises em ambientes financeiros. Estou comprometido com o contínuo aprimoramento profissional e a busca por soluções inovadoras para desafios complexos.
+Olá, sou Daniel, tenho 26 anos e sou engenheiro de formação com uma forte paixão por dados. Ao longo da minha trajetória profissional, venho me especializando em ciência de dados, com experiência sólida em análise e transformação de dados desde meu primeiro estágio em uma empresa parceira da Enel Brasil.
 
+Tenho expertise na criação de modelos analíticos e relatórios gerenciais utilizando ferramentas como Power BI, além de aplicar técnicas avançadas de visualização de dados para fornecer insights precisos e acionáveis. Minha atuação envolve análise de dados para detectar padrões, prever tendências e identificar oportunidades de negócio, além de monitorar e diagnosticar anomalias nos dados.
+
+Atualmente, sou responsável pelo desenvolvimento e monitoramento de modelos preditivos voltados para o risco de crédito, com destaque para a manutenção de crédito.
 
 **Background in:** SQL, Python, Power BI e Pacote Office
 
