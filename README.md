@@ -20,10 +20,10 @@ Atualmente, sou responsável pelo desenvolvimento e monitoramento de modelos pre
 * [**Repositório com notebooks de análise exploratória de dados (EDA)**](https://github.com/DanielSantosSouza/EDA.git)
 
 ### Machine Learning
-* **Desafio do Titanic - Kaggle** - https://github.com/DanielSantosSouza/Titanic.git
+* [**Desafio do Titanic - Kaggle**](https://github.com/DanielSantosSouza/Titanic.git)
 
 ### Web Scraping
-* **Web Scraping de Dados do TSE** - https://github.com/DanielSantosSouza/Web-Scraping---TSE.git
+* [**Web Scraping de Dados do TSE**](https://github.com/DanielSantosSouza/Web-Scraping---TSE.git)
   
 ---
 
