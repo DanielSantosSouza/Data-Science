@@ -17,7 +17,7 @@ Atualmente, sou responsável pelo desenvolvimento e monitoramento de modelos pre
 ## Projetos:
 
 ### EDA
-* **Repositório com notebooks de análise exploratória de dados (EDA)** - https://github.com/DanielSantosSouza/EDA.git
+* [**Repositório com notebooks de análise exploratória de dados (EDA)**](https://github.com/DanielSantosSouza/EDA.git)
 
 ### Machine Learning
 * **Desafio do Titanic - Kaggle** - https://github.com/DanielSantosSouza/Titanic.git
