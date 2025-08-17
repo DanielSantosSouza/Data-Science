@@ -24,9 +24,6 @@ Atualmente, sou responsável pelo desenvolvimento e monitoramento de modelos pre
 
 ### Web Scraping
 * [**Web Scraping de Dados do TSE**](https://github.com/DanielSantosSouza/Web-Scraping---TSE.git)
+* [**Web Scraping de Dados do BACEN**](https://github.com/DanielSantosSouza/Web-Scraping---BancoCentral_Balancetes_IFs.git)
   
 ---
-
-
-
-
